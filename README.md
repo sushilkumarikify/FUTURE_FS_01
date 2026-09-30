@@ -1,51 +1,91 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, education, projects, and professional profile as an Information Science Engineering student interested in Full Stack Web Development and Artificial Intelligence.
+## 👨‍💻 About the Project
 
-## 👨‍💻 About Me
+This is my personal portfolio website, created to showcase my skills, projects, education, and professional profile as an Information Science Engineering student interested in Full Stack Web Development and Artificial Intelligence.
 
-Hi, I'm **Sushilkumar**, an Information Science Engineering student passionate about:
+The website is designed with a clean, responsive, and recruiter-friendly interface.
 
-- Full Stack Web Development
-- Programming
-- Artificial Intelligence
-- Problem Solving
-- Building real-world technology solutions
+---
 
-This portfolio is designed to present my technical skills, projects, and professional journey in a simple and responsive way.
+## 🚀 Live Portfolio
 
-## 🚀 Features
+🔗 **Live Website:**  
+https://sushilkumarify.github.io/FUTURE_FS_01/
 
-- Responsive portfolio design
-- Home section with introduction
+---
+
+## 📂 GitHub Repository
+
+🔗 **Source Code:**  
+https://github.com/sushilkumarify/FUTURE_FS_01
+
+The repository contains the complete source code, project files, and documentation required to run the portfolio.
+
+---
+
+## ✨ Features
+
+- Responsive personal portfolio website
+- Professional homepage
 - About Me section
-- Education and interests
-- Technical skills section
+- Education information
+- Technical skills showcase
 - Project showcase
 - Contact section
-- Responsive navigation menu
+- Responsive navigation
 - Mobile-friendly design
 - Interactive JavaScript elements
-- Backend API integration
+- Node.js and Express.js backend
+- GitHub Pages deployment
+
+---
 
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
 ### Backend
+
 - Node.js
 - Express.js
 
-### Tools
-- VS Code
+### Development Tools
+
+- Visual Studio Code
 - Git
 - GitHub
 - Live Server
 
-## 📂 Project Structure
+---
+
+## 📌 Projects
+
+### 1. Communication Portal
+
+A web-based communication project designed to provide users with an easy way to communicate and share information.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 2. Personal Portfolio Website
+
+A responsive portfolio website created to showcase my technical skills, projects, education, and professional profile.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js
+
+### 3. KisanSetu
+
+A technology-based project focused on developing digital solutions to improve accessibility and communication for farmers.
+
+**Technologies:** Web Technologies
+
+---
+
+## 📁 Project Structure
 
 ```text
 FUTURE_FS_01/
